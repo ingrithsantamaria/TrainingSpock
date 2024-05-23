@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="miPrimeraPruebaSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-23T15:29:44" hostname="Ingrith-Santamaria-MacBook-Air.local" time="0.04">
+  <properties/>
+  <testcase name="sumar dos números" classname="miPrimeraPruebaSpec" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
